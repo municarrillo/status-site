@@ -9,6 +9,8 @@ sites:
     url: https://visorcartografico.municarrillo.go.cr
   - name: Visados Carrillo
     url: https://visadosweb.municarrillo.go.cr
+  - name: Google
+    url: https://www.google.com
 
 assignees:
   - carlosmmairena

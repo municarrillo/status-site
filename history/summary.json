@@ -4,9 +4,9 @@
     "url": "https://www.municarrillo.go.cr",
     "icon": "https://favicons.githubusercontent.com/www.municarrillo.go.cr",
     "slug": "municarrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 976,
     "timeMonth": 959,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "Visor Cartografico Carrillo",
     "url": "https://visorcartografico.municarrillo.go.cr",
     "icon": "https://favicons.githubusercontent.com/visorcartografico.municarrillo.go.cr",
     "slug": "visor-cartografico-carrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 627,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "Visados Carrillo",
     "url": "https://visadosweb.municarrillo.go.cr",
     "icon": "https://favicons.githubusercontent.com/visadosweb.municarrillo.go.cr",
     "slug": "visados-carrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 507,
     "timeMonth": 515,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "Google",

@@ -4,7 +4,7 @@
     "url": "https://www.municarrillo.go.cr",
     "icon": "https://favicons.githubusercontent.com/www.municarrillo.go.cr",
     "slug": "municarrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 935,
     "timeMonth": 1019,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "Visor Cartografico Carrillo",

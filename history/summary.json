@@ -4,9 +4,9 @@
     "url": "https://www.municarrillo.go.cr",
     "icon": "https://favicons.githubusercontent.com/www.municarrillo.go.cr",
     "slug": "municarrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 960,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2022-07-19": 0,
       "2022-06-28": 58,
       "2022-06-21": 43,
       "2022-06-07": 49

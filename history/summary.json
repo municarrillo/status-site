@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.municarrillo.go.cr",
     "slug": "municarrillo",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 995,
-    "timeDay": 961,
-    "timeWeek": 1020,
-    "timeMonth": 981,
+    "timeDay": 991,
+    "timeWeek": 981,
+    "timeMonth": 983,
     "timeYear": 995,
     "dailyMinutesDown": {
       "2022-07-19": 88,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 609,
-    "timeDay": 624,
-    "timeWeek": 710,
-    "timeMonth": 661,
+    "timeDay": 590,
+    "timeWeek": 688,
+    "timeMonth": 662,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-06-21": 43
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 527,
-    "timeDay": 1843,
-    "timeWeek": 770,
-    "timeMonth": 596,
-    "timeYear": 527,
+    "time": 529,
+    "timeDay": 695,
+    "timeWeek": 754,
+    "timeMonth": 600,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2022-06-21": 42
     }
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 72,
-    "timeWeek": 122,
-    "timeMonth": 114,
+    "timeDay": 85,
+    "timeWeek": 81,
+    "timeMonth": 115,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
